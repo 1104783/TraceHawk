@@ -31,17 +31,12 @@ Perfect for ethical hacking, penetration testing, network monitoring, and educat
 ### 🔽 1. Clone the Repository
 
 `bash
-git clone https://github.com/your-username/TraceHawk-IP-Tracker.git
-cd TraceHawk-IP-Tracker
-
-> 🔁 Replace your-username with your GitHub username if uploading this to your profile.
-
-
+git clone https://github.com/archkhertdev/TraceHawk.git
 
 
 ---
 
-🧪 2. Create a Virtual Environment (Recommended)
+### 🧪 2. Create a Virtual Environment (Recommended)
 
 python -m venv venv
 source venv/bin/activate
@@ -49,14 +44,14 @@ source venv/bin/activate
 
 ---
 
-📦 3. Install Required Python Packages
+### 📦 3. Install Required Python Packages
 
 pip install requests
 
 
 ---
 
-⚙️ 4. Install Ngrok (If not installed)
+### ⚙️ 4. Install Ngrok (If not installed)
 
 sudo pacman -S unzip
 curl -O https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-stable-linux-amd64.zip
@@ -66,7 +61,7 @@ sudo mv ngrok /usr/local/bin
 
 ---
 
-🚀 Usage Instructions
+### 🚀 Usage Instructions
 
 ▶️ Run the IP Logger
 
@@ -88,7 +83,7 @@ python ip_logger.py
 
 ---
 
-📁 Example Output
+### 📁 Example Output
 
 === Python IP Logger with Ngrok ===
 [?] Enter your Ngrok authtoken: <paste-it-here>
@@ -107,7 +102,7 @@ python ip_logger.py
 
 ---
 
-⚠️ Legal & Ethical Usage
+### ⚠️ Legal & Ethical Usage
 
 This tool is provided for educational and authorized testing purposes only.
 Do not use it against individuals, websites, or networks without explicit permission.
@@ -116,7 +111,7 @@ Using this tool on unauthorized targets may violate local laws and cybersecurity
 
 ---
 
-👤 Author
+### 👤 Author
 
 Khert (ARCHKHERT)
 Ethical Hacker | Security Researcher | Arch Linux Enthusiast
