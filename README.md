@@ -30,8 +30,7 @@ Perfect for ethical hacking, penetration testing, network monitoring, and educat
 
 ### 🔽 1. Clone the Repository
 
-`bash
-git clone https://github.com/archkhertdev/TraceHawk.git
+```git clone https://github.com/archkhertdev/TraceHawk.git```
 
 
 ---
