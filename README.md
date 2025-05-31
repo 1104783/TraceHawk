@@ -37,25 +37,26 @@ Perfect for ethical hacking, penetration testing, network monitoring, and educat
 
 ### 🧪 2. Create a Virtual Environment (Recommended)
 
-python -m venv venv
-source venv/bin/activate
+```python -m venv venv```
+```source venv/bin/activate```
 
 
 ---
 
 ### 📦 3. Install Required Python Packages
 
-pip install requests
+```pip install requests``` (Do this inside venv)
 
 
 ---
 
 ### ⚙️ 4. Install Ngrok (If not installed)
 
-sudo pacman -S unzip
-curl -O https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-stable-linux-amd64.zip
-unzip ngrok-stable-linux-amd64.zip
-sudo mv ngrok /usr/local/bin
+```sudo pacman -S unzip curl -O https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-stable-linux-amd64.zip unzip ngrok-stable-linux-amd64.zip```
+
+```sudo mv ngrok /usr/local/bin```
+
+(If you're having problems installing ngrok, watch some tutorials on YT or ask AI)
 
 
 ---
@@ -66,7 +67,7 @@ sudo mv ngrok /usr/local/bin
 
 python ip_logger.py
 
-1. Enter your Ngrok authtoken when prompted.
+1. Enter your Ngrok authtoken when prompted. **(NOTE: You must create an account on ngrok and use your own API. IT IS FREE)**
 
 
 2. The tool will generate a public tracking link.
@@ -76,6 +77,8 @@ python ip_logger.py
 
 
 4. When they open it, their IP + geolocation will be printed instantly.
+
+5. Press CTRL+C to end the program and type ```pkill ngrok``` so you can use your API again
 
 
 
