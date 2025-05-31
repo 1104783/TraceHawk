@@ -117,7 +117,7 @@ Using this tool on unauthorized targets may violate local laws and cybersecurity
 
 Khert (ARCHKHERT)
 Ethical Hacker | Security Researcher | Arch Linux Enthusiast
-🔗 GitHub: https://github.com/your-username
+**🔗 GitHub: https://github.com/archkhertdev**
 
 
 ---
