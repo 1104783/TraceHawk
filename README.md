@@ -122,5 +122,5 @@ Ethical Hacker | Security Researcher | Arch Linux Enthusiast
 
 ---
 
-> “Hacking isn’t about breaking systems. It’s about breaking boundaries — ethically.”
-— ARCHKHERT 🧠💻
+> “Hacking isn’t about breaking systems. It’s about breaking boundaries.”
+— ARCHKHERT
